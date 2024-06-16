@@ -1,0 +1,15 @@
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.exe
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.deps.json
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.runtimeconfig.json
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.dll
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\bin\Debug\net8.0\Abstract_Classes_and_Methods.pdb
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.AssemblyInfoInputs.cache
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.AssemblyInfo.cs
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.csproj.CoreCompileInputs.cache
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.sourcelink.json
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.dll
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\refint\Abstract_Classes_and_Methods.dll
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.pdb
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\Abstract_Classes_and_Methods.genruntimeconfig.cache
+D:\c sharp\dcit318-assignment2-10961911\Abstract_Classes_and_Methods\obj\Debug\net8.0\ref\Abstract_Classes_and_Methods.dll
