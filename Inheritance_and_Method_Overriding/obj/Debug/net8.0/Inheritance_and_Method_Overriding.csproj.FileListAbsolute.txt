@@ -1,0 +1,15 @@
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\bin\Debug\net8.0\Inheritance_and_Method_Overriding.exe
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\bin\Debug\net8.0\Inheritance_and_Method_Overriding.deps.json
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\bin\Debug\net8.0\Inheritance_and_Method_Overriding.runtimeconfig.json
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\bin\Debug\net8.0\Inheritance_and_Method_Overriding.dll
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\bin\Debug\net8.0\Inheritance_and_Method_Overriding.pdb
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.AssemblyInfoInputs.cache
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.AssemblyInfo.cs
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.csproj.CoreCompileInputs.cache
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.sourcelink.json
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.dll
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\refint\Inheritance_and_Method_Overriding.dll
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.pdb
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\Inheritance_and_Method_Overriding.genruntimeconfig.cache
+D:\c sharp\dcit318-assignment2-10961911\Inheritance_and_Method_Overriding\obj\Debug\net8.0\ref\Inheritance_and_Method_Overriding.dll
